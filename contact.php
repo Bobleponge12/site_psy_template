@@ -158,7 +158,7 @@ Mail &nbsp &nbsp;
               <a class="nav-link active" aria-current="page" href="./public/index.html">Accueil</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./services.html">Services</a>
+              <a class="nav-link" href="./services.html">Thérapies</a>
             </li>
 
             <li class="nav-item">
@@ -201,18 +201,26 @@ Mail &nbsp &nbsp;
 
       </form>
     </div>
-
     <!-- FOOTER -->
     <footer class="d-flex justify-content-around bg-light">
-      <div class="p-2 kt"><i class="bi bi-facebook me-1"></i>
-        <i class="bi bi-instagram me-1"></i>
-        <i class="bi bi-twitter me-1"></i>
-        <i class="bi bi-tiktok me-1"></i>
-        <i class="bi bi-snapchat me-1"></i>
-      </div>
-      <div class="p-2"></div>
-      <div class="p-2 kt">2022 &copy; Karim Tareb</div>
+        <div class="p-2 kt">
+            <i class="bi bi-facebook me-1"></i>
+            <i class="bi bi-instagram me-1"></i>
+            <i class="bi bi-twitter me-1"></i>
+            <i class="bi bi-tiktok me-1"></i>
+            <i class="bi bi-snapchat me-1"></i>
+        </div>
+        <div class="p-2 footerText">
+            <p>
+                Mathilde Giron Psychologue<img
+                    src="../img/psy/kisspng-psychology-symbol-logo-sign-concept-5af5d10100ec74.7458124215260592650038.webp"
+                    width="20px"
+                />
+            </p>
+        </div>
+        <div class="p-2 kt">2022 &copy; Karim Tareb</div>
     </footer>
+    <!-- FIN FOOTER -->
   </div>
 </body>
 

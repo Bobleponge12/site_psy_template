@@ -39,7 +39,8 @@ header {
 }
 
 .texteBlanc {
-    color: aliceblue;
+    color: #504b47;
+    background: #f7f7f7;
 }
 
 .cardFondUn {
@@ -86,14 +87,14 @@ header {
 }
 
 .fondBody {
-    background-image: url(../img/numerique/help1280x1920.jpg);
-    background-size: cover;
+    background: #eeeeee;
 }
 
 .title {
     background: #504b47;
     font-family: "Updock";
     font-size: 4rem;
+    color: #eeeeee;
 }
 
 .textPresentation {
@@ -101,7 +102,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: aliceblue;
+    color: #504b47;
     padding-bottom: 20px;
     padding-top: 20px;
 }
@@ -118,6 +119,13 @@ header {
 
 .preFooter {
     margin-bottom: 200px;
+}
+
+.footerText {
+    font-family: "Updock";
+    font-weight: bold;
+    font-size: 100%;
+    color: #504b47;
 }
 
 .rs {
